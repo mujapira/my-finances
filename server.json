@@ -23,6 +23,22 @@
       "category": "educação",
       "price": 900,
       "createdAt": "2022-08-25T18:55:48.370Z"
+    },
+    {
+      "description": "magic",
+      "price": 200,
+      "category": "entreterimento",
+      "type": "outcome",
+      "createdAt": "2022-08-26T14:23:45.991Z",
+      "id": 4
+    },
+    {
+      "description": "Sorvete",
+      "price": 15,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-08-26T14:40:54.960Z",
+      "id": 5
     }
   ]
 }
